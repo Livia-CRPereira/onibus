@@ -21,5 +21,5 @@ O objetivo desse projeto foi contribuir para a organização de uma empresa, apr
 
 # 👩 Autores
 
-| [`<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br>``<sub>`Lívia Caroline`</sub>`](https://github.com/Livia-CRPereira) |
+| [`<img src="https://avatars.githubusercontent.com/u/185426060?v=4&size=64" width=115><br>``<sub>`Lívia Caroline`</sub>`](https://github.com/Livia-CRPereira) |
 | :--------------------------------------------------------------------------------------------------------------------------: |
